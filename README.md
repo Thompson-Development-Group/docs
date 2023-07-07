@@ -1,0 +1,2 @@
+# docs
+NoCodeium Support Docs
